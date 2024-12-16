@@ -1,0 +1,77 @@
+.to{
+    color: whitesmoke;
+}
+.h1{
+    text-align: center;
+    background-color: blue;
+    height:550px;
+    width: 1235px;
+    border:2px solid black;
+    border-radius: 5px;
+}
+.about{
+    text-align: center;
+    border:2px solid black;
+    border-radius: 5px;
+    height: 500px;
+    width:1235px;
+}
+.n{
+    text-align: center;
+    color: blue;
+}
+.my{
+    color: blue;
+}
+.skill{
+    text-align: center;
+    border:2px solid black;
+    border-radius: 5px;
+    height: 200px;
+    width:1235px;
+    padding-bottom: 150px;
+   padding-top: 150px;
+}
+.pro{
+    text-align: center;
+    color: blue;
+}
+.project{
+    text-align: center;
+    border:2px solid black;
+    border-radius: 5px;
+    height: 200px;
+    width:1235;
+    padding-bottom: 150px;
+   padding-top: 150px;
+}
+.tab{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 80%;
+    align-items: center;
+}
+.m{
+    color: blue;
+    text-align: center;
+}
+.contact{
+    text-align: center;
+    border:2px solid black;
+    border-radius: 5px;
+    height: 150px;
+    width:1235px;
+    padding-bottom: 150px;
+   padding-top: 150px;
+}
+.btn{
+    background-color:blue;
+}
+.foo{
+    text-align: center;
+    min-height: 30px;
+    background-color: black;
+    width: 1235;
+    color: aliceblue;
+    padding:15px ;
+}
